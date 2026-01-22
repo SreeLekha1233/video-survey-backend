@@ -1,4 +1,5 @@
-#  Video Survey Backend (FastAPI + MySQL)
+
+
 
 This project is a backend system for a **privacy-first video survey platform** where users answer a 5-question Yes/No survey while their video and face snapshots are captured.
 
@@ -24,4 +25,10 @@ The system:
 ---
 
 ##  Project Structure
+
+=======
+# video-survey-backend
+Backend for Video Survey Platform (FastAPI + MySQL)
+This project uses MySQL with raw SQL instead of SQLAlchemy ORM.
+Schema is provided in db_schema.sql
 
