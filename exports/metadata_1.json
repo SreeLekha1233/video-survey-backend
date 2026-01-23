@@ -1,0 +1,56 @@
+{
+  "submission_id": 1,
+  "survey_id": 1,
+  "started_at": "2026-01-22 08:38:02",
+  "completed_at": "2026-01-22 12:14:15",
+  "ip_address": "127.0.0.1",
+  "device": "Unknown",
+  "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Sa",
+  "os": "Unknown",
+  "location": "Unknown",
+  "overall_score": 85,
+  "responses": [
+    {
+      "question": "Are you in a well-lit room?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 85,
+      "face_image": "/media/images/q1.png"
+    },
+    {
+      "question": "Is your camera stable?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 85,
+      "face_image": "/media/images/q2.png"
+    },
+    {
+      "question": "Is your face clearly visible?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 85,
+      "face_image": "/media/images/q3.png"
+    },
+    {
+      "question": "Are you alone in the room?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 95,
+      "face_image": "/media/images/q4.png"
+    },
+    {
+      "question": "Are you alone in the room?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 95,
+      "face_image": "/media/images/q4.png"
+    },
+    {
+      "question": "Are you ready to continue?",
+      "answer": "Yes",
+      "face_detected": true,
+      "score": 65,
+      "face_image": "/media/images/q5.png"
+    }
+  ]
+}
